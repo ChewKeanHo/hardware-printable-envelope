@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 1122.5197 793.70079"
+   fill="none"
+   stroke="none"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   id="svg73"
+   sodipodi:docname="inkscape-envelope-a4.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   width="1122.5197"
+   height="793.70081"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Printable Envelope (A4) | (Holloway) Chew, Kean Ho's Hardware</title>
+  <metadata
+     id="metadata79">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Printable Envelope (A4) | (Holloway) Chew, Kean Ho's Hardware</dc:title>
+        <dc:date>2026-04-27</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Created by: (Holloway) Chew, Kean Ho</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>(Holloway) Chew, Kean Ho</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>(Holloway) Chew, Kean Ho</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>chewkeanho-hardware-printable-envelope</dc:identifier>
+        <dc:source>https://hardware.chewkeanho.com</dc:source>
+        <dc:relation>Hardware Product</dc:relation>
+        <dc:language>any</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>hardware</rdf:li>
+            <rdf:li>product</rdf:li>
+            <rdf:li>envelope</rdf:li>
+            <rdf:li>printable</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>hardware</dc:coverage>
+        <dc:description>The (Holloway) Chew, Kean Ho's DIY Printable Envelope Hardware Product.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs77" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="987"
+     id="namedview75"
+     showgrid="false"
+     inkscape:zoom="0.62798651"
+     inkscape:cx="627.40201"
+     inkscape:cy="398.09772"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg73"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1" />
+  <clipPath
+     id="p.0">
+    <path
+       d="M 0,0 H 1122.5197 V 793.7008 H 0 Z"
+       clip-rule="nonzero"
+       id="path2" />
+  </clipPath>
+  <g
+     id="background"
+     inkscape:label="background"
+     transform="translate(-14.239315)"
+     sodipodi:insensitive="true">
+    <path
+       fill="#ffffff"
+       d="M 168.27999,200.65749 181.69054,0.5 h 788.45448 l 13.41053,200.15749 z"
+       fill-rule="evenodd"
+       id="background-bottom-troso"
+       inkscape:label="background-bottom-troso"
+       style="stroke:#cccccc"
+       sodipodi:insensitive="true" />
+    <path
+       fill="#ffffff"
+       d="M 984.5451,565.63385 969.23113,794.20081 H 182.59922 L 167.28524,565.63385 Z"
+       fill-rule="evenodd"
+       id="background-upper-troso"
+       inkscape:label="background-upper-troso"
+       style="stroke:#cccccc"
+       sodipodi:insensitive="true" />
+    <path
+       fill="#ffffff"
+       d="m 983.1455,198.69846 152.6299,20.60199 v 326.67 l -152.6299,20.60199 z"
+       fill-rule="evenodd"
+       id="background-top"
+       inkscape:label="background-top"
+       style="stroke:#cccccc"
+       sodipodi:insensitive="true" />
+    <path
+       fill="#ffffff"
+       d="M 168.28261,567.56824 14.739315,552.36286 V 214.86811 L 168.28261,199.66272 Z"
+       fill-rule="evenodd"
+       id="background-bottom"
+       inkscape:label="background-bottom"
+       style="stroke:#cccccc"
+       sodipodi:insensitive="true" />
+    <path
+       fill="#ffffff"
+       d="M 168.27999,199.66011 H 984.53195 V 567.53413 H 168.27999 Z"
+       fill-rule="evenodd"
+       id="background-center"
+       inkscape:label="background-center"
+       style="stroke:#cccccc"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     id="foreground"
+     transform="translate(-14.239315)"
+     inkscape:label="foreground">
+    <path
+       id="ribbon-confidentiality"
+       d="m 875.68072,0.5 v 793.16294 h 16.69336 V 0.5 Z m 53.73242,0.0378672 V 793.70081 H 946.1065 V 0.53786721 Z"
+       inkscape:label="ribbon-confidentiality"
+       style="fill:#000080;stroke-width:1.46828" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:13.3333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light'"
+       x="575.42578"
+       y="665.44336"
+       id="disclosure-statement"
+       inkscape:label="disclosure-statement"><tspan
+         id="tspan904"
+         x="575.42578"
+         y="665.44336"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle;fill:#000000"
+         sodipodi:role="line">If you are not the intended recipients,</tspan><tspan
+         x="575.42578"
+         y="682.10999"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle;fill:#000000"
+         id="tspan908"
+         sodipodi:role="line">please discard the letter <tspan
+   style="font-weight:bold;text-align:center;text-anchor:middle"
+   id="tspan912">undisclosed</tspan>.</tspan><tspan
+         x="575.42578"
+         y="698.77661"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle;fill:#000000"
+         id="tspan910"
+         sodipodi:role="line">Thank you.</tspan></text>
+    <g
+       id="recipient"
+       inkscape:label="recipient"
+       transform="translate(0,7.5877358)">
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:16px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';fill:#000000"
+         x="246.92261"
+         y="333.90091"
+         id="recipient-name"
+         inkscape:label="recipient-name"><tspan
+           sodipodi:role="line"
+           id="tspan914"
+           x="246.92261"
+           y="333.90091"
+           style="font-weight:bold;font-size:18.6667px">JANE SMITH</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:13.3333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light'"
+         x="245.46127"
+         y="364.83273"
+         id="recipient-address"
+         inkscape:label="recipient-address"><tspan
+           sodipodi:role="line"
+           id="tspan918"
+           x="245.46127"
+           y="364.83273"
+           style="font-size:13.3333px;fill:#000000">P.O.BOX, UNIT NUMBER, STREE NAME,</tspan><tspan
+           sodipodi:role="line"
+           x="245.46127"
+           y="381.49936"
+           style="font-size:13.3333px;fill:#000000"
+           id="tspan922">TOWN NAME,</tspan><tspan
+           sodipodi:role="line"
+           x="245.46127"
+           y="398.16599"
+           style="font-size:13.3333px;fill:#000000"
+           id="tspan924">POSTCODE, CITY,</tspan><tspan
+           sodipodi:role="line"
+           x="245.46127"
+           y="414.83261"
+           style="font-size:13.3333px;fill:#000000"
+           id="tspan926">STATE, COUNTRY</tspan><tspan
+           sodipodi:role="line"
+           x="245.46127"
+           y="431.49924"
+           style="font-size:13.3333px;fill:#000000"
+           id="tspan1">CONTINENT</tspan></text>
+    </g>
+  </g>
+</svg>
