@@ -34,7 +34,7 @@ You can download a copy of the `svg` file from the **Release Section**.
 Currently, this project tested and supported the following printing sizes:
 
 * **ISO A - A4** - *A4 paper printing size* |
-  [SVG](#)
+  [SVG](https://github.com/ChewKeanHo/hardware-printable-envelope/releases/latest/download/inkscape-envelope-a4.svg)
 
 Then head over https://inkscape.org to download the Inkscape editor. Open the
 SVG with it and you can start editing. The envelope outline is correctly
